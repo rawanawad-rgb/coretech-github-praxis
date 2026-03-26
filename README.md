@@ -11,4 +11,5 @@
 
 
 
+# Konflicte
 # main konflicte
