@@ -4,7 +4,7 @@
 # My Project
 
 ## Description
-This is my project
+This is my first  project
 
 ## Requirements
 - Git
