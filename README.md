@@ -1,4 +1,4 @@
-# My Project
+# {My Project}
 #Project Name
 
 ##Description
